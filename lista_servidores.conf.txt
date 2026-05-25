@@ -1,0 +1,186 @@
+[Interface]
+PrivateKey = wO5WuaWQGxBdHQ3Pw38VktzdXxmGNff84MQIGKoE0FQ=
+Address = 10.2.0.2/32, 2a07:b944::2:2/128
+DNS = 10.2.0.1, 2a07:b944::2:1
+
+[Peer]
+PublicKey = iKGECV5NZgXQ8mDSvupfeStGXBHDiO8VOOLs5U7KpGc=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 195.242.214.210:51820
+PersistentKeepalive = 25
+
+[Interface]
+PrivateKey = wH2X7GdVvxHhunzCygxNNnieXCRxtWLpnL8O+HwXfV0=
+Address = 10.2.0.2/32, 2a07:b944::2:2/128
+DNS = 10.2.0.1, 2a07:b944::2:1
+
+[Peer]
+PublicKey = 32BouQp7QBFlZTBW8goSEE+kDnyEqbjYGKWNOdqx4DM=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 149.22.82.55:51820
+PersistentKeepalive = 25
+
+[Interface]
+PrivateKey = kClRXYsvnQYKApXagmK60QusC3NHngs4wWRDZ2e/01k=
+Address = 10.2.0.2/32, 2a07:b944::2:2/128
+DNS = 10.2.0.1, 2a07:b944::2:1
+
+[Peer]
+PublicKey = xw17Os6trr64hGzsWUPLYEkfDVcqxhAjp1xZ+RTSUnA=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 149.22.82.28:51820
+PersistentKeepalive = 25
+
+[Interface]
+PrivateKey = QLH7rPpVWX8otGoHolEnSLwDPcNHnqovQM3vYX2loHM=
+Address = 10.2.0.2/32, 2a07:b944::2:2/128
+DNS = 10.2.0.1, 2a07:b944::2:1
+
+[Peer]
+PublicKey = JB84ctFi3l+gxJxr/kwYXlKwLcmqWxuuLBkpE1anmgo=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 195.242.214.194:51820
+PersistentKeepalive = 25
+
+[Interface]
+PrivateKey = qN4w8hdc6X9S1eHvHdTMg65vjsRaWj+kwSnlCM8cRUs=
+Address = 10.2.0.2/32, 2a07:b944::2:2/128
+DNS = 10.2.0.1, 2a07:b944::2:1
+
+[Peer]
+PublicKey = BMcUDlAQ8NkaxEeQangFjGRRrVxSMKwTYw4mewc+zzQ=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 195.242.214.178:51820
+PersistentKeepalive = 25
+
+[Interface]
+PrivateKey = YMgVq0yo7XfQ6VWEANh9CJ89Jq1z3tZp4ezyCzsQBFc=
+Address = 10.2.0.2/32, 2a07:b944::2:2/128
+DNS = 10.2.0.1, 2a07:b944::2:1
+
+[Peer]
+PublicKey = CDPzpwQ2oQuV6ImkpVkQ3OUzV1BDrvNLKqqtewqeFk4=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 195.242.214.146:51820
+PersistentKeepalive = 25
+
+[Interface]
+PrivateKey = 2DqKD8AWRczB4YeXRIbe08y8N2dAEeK03p54K5FkTWc=
+Address = 10.2.0.2/32, 2a07:b944::2:2/128
+DNS = 10.2.0.1, 2a07:b944::2:1
+
+[Peer]
+PublicKey = 358uOGHHss6pUT5v2enBtybHCun3iyH/l7g1t9BVfgo=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 195.242.214.162:51820
+PersistentKeepalive = 25
+
+[Interface]
+PrivateKey = QMMArAzgoySIagnx8gJ6JKLz5j+Obt+dG4eAwfOQWkQ=
+Address = 10.2.0.2/32, 2a07:b944::2:2/128
+DNS = 10.2.0.1, 2a07:b944::2:1
+
+[Peer]
+PublicKey = +WRsjA7z/PQqasrqiUVo3Tug+go7W2DXjO2p3TTeagk=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 138.199.6.179:51820
+PersistentKeepalive = 25
+
+[Interface]
+PrivateKey = oK8ZFfSNa65ob9bTJpeBJU595HidJcHI4sp6CqmXQ0A=
+Address = 10.2.0.2/32
+DNS = 10.2.0.1
+
+[Peer]
+PublicKey = mortbpQLtauCXw+rSFfEty9xZa1kEAeB9iB/c8sw6Wo=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 212.102.51.110:51820
+PersistentKeepalive = 25
+
+[Interface]
+PrivateKey = IK79sEYlqbCRAxPaqxlLV0caGIf8DBEzdUeOtiFeckI=
+Address = 10.2.0.2/32
+DNS = 10.2.0.1
+
+[Peer]
+PublicKey = NUx0YsVGvESPKbXWSYtZaHuQLi2wE6Q+1VhKSxf+9l0=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 138.199.21.203:51820
+PersistentKeepalive = 25
+
+[Interface]
+PrivateKey = YEqSIb3Ffdr4dr4BZMR9Yaf+i1rhvNQ7D+PcdGPgXk4=
+Address = 10.2.0.2/32
+DNS = 10.2.0.1
+
+[Peer]
+PublicKey = dew7bKQjobIKkIaSvkDNM9vpl1ZFZ6EwIOJM4jhZd28=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 212.102.51.115:51820
+PersistentKeepalive = 25
+
+[Interface]
+PrivateKey = 4LqGkY98utHAQitkZ2vDlQafqEEbtz5eDOYju+4gE0k=
+Address = 10.2.0.2/32
+DNS = 10.2.0.1
+
+[Peer]
+PublicKey = iJZK2duVi5TunYnIIDjQwmTvXZK4xzitCx+d09veiAQ=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 149.88.103.53:51820
+PersistentKeepalive = 25
+
+[Interface]
+PrivateKey = yEi/FyGdeFq8/EX+0ZIQDgG9ALLqtf/HqHkrFwLf1HM=
+Address = 10.2.0.2/32
+DNS = 10.2.0.1
+
+[Peer]
+PublicKey = mkI+cC9ggzfMdZy1cl3Fl01gPJJxsLXjshXAN8EedQ8=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 84.20.27.53:51820
+PersistentKeepalive = 25
+
+[Interface]
+PrivateKey = KDVtnaBasj3lmWeD681fLXLoHQf3chCzZ0mkx/rXIlc=
+Address = 10.2.0.2/32
+DNS = 10.2.0.1
+
+[Peer]
+PublicKey = uK67VRNOHFP8JwJRqGdZ8Ax9Pu0M7ZGnHJ+DNq4TFiM=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 84.20.27.51:51820
+PersistentKeepalive = 25
+
+[Interface]
+PrivateKey = 2LyV2lXCyBSH5B5GDZHtfps+q7i1tRsnQfpQXdyC00M=
+Address = 10.2.0.2/32
+DNS = 10.2.0.1
+
+[Peer]
+PublicKey = VIsNLxZusibbokXCLvUmRHmYhdIEUsWm+vGHoEvWd20=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 84.20.27.50:51820
+PersistentKeepalive = 25
+
+[Interface]
+PrivateKey = cNMrc/A5JMncHpC3jPY7Yv9Vp16Nrc7eZFvC6z7g5U8=
+Address = 10.2.0.2/32
+DNS = 10.2.0.1
+
+[Peer]
+PublicKey = wooCicf2PLNZjvDxVMVc/nrvFsFnNAU4n+AnKWVz8mg=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 149.50.211.149:51820
+PersistentKeepalive = 25
+
+[Interface]
+PrivateKey = 6AglBm9lBZQrAJPLHrw3lrV1bqH1prKDzwchCy2WaFQ=
+Address = 10.2.0.2/32
+DNS = 10.2.0.1
+
+[Peer]
+PublicKey = LzDybSqRbDLpmigYBYbCHyh9fMfphvcEYpV39GvTgE4=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 103.216.221.69:51820
+PersistentKeepalive = 25
